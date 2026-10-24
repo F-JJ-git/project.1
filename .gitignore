@@ -13,3 +13,10 @@ ipch/
 *.ilk
 *.exe
 *.log
+
+# CMake / Visual Studio 文件夹构建产物
+out/
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
